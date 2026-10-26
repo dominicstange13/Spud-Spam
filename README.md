@@ -1,6 +1,6 @@
 # Spud-Spam
 
-![Spudspamlogo]()
+![Spudspamlogo](assets/images/logo.png)
 
 I made a game called Spud Spam, which is about defending your territory with a potato cannon from fruits and veggies!
 
