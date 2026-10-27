@@ -9,6 +9,6 @@ This game was made entirely in Python, utilizing the library Pygame. It took abo
 
 # How to Play
 ## Installation
-To install, download the zip file under the first release, extract all, and run "main.exe."
+To install, download the zip file under the first release, extract all, and run "main.exe." Keep the assets folder next to it or the game will be unable to run.
 ## Gameplay
 To play, aim at enemies and tap or hold down to shoot. Buy upgrades in the bottom right to either increase fire rate, increase potato count per fire, or increase money per enemy kill.
